@@ -1,0 +1,141 @@
+#uber{
+    height: 50px;
+    width: 100px;
+    background-color: Black;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: opacity 0.20s;
+}
+#uber:hover{
+    opacity: 0.7;
+}
+#amazon{
+    height: 50px;
+    width: 100px;
+    background-color: rgb(255,216,20);
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: background-color 0.20s;
+}
+#amazon:hover{
+    background-color: rgb(221, 190, 33);
+}
+#github{
+    height: 50px;
+    width: 100px;
+    background-color: rgb(46,164,79);
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: box-shadow 0.20s;
+}
+#github:hover{
+    box-shadow: 4px 5px 15px rgb(46,164,79);
+}
+#bootstrap1{
+    height: 50px;
+    width: 100px;
+    background-color: rgb(121,82,179);
+    color: white;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: color 0.20s, background-color 0.20s;
+}
+#bootstrap1:hover{
+    color: rgb(121,82,179);
+    background-color: white;
+    border: 2px solid rgb(121,82,179);
+}
+#bootstrap2{
+    height: 50px;
+    width: 100px;
+    background-color: white;
+    border: 2px solid rgb(108,117,125);
+    color: rgb(108,117,125);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: color 0.20s,background-color 0.20s;
+}
+#bootstrap2:hover{
+    color: white;
+    background-color: rgb(108,117,125);
+    border: none;
+}
+#linkedin1{
+    height: 50px;
+    width: 200px;
+    background-color: rgb(10,102,194);
+    border-radius: 25px;
+    color: white;
+    border: none;
+    font-weight: bolder;
+    cursor: pointer;
+    transition: background-color 0.20s;
+}
+#linkedin1:hover{
+    background-color: rgb(8, 74, 139);
+}
+#linkedin2{
+    height: 50px;
+    width: 100px;
+    background-color: white;
+    border-radius: 10px;
+    border: 2px solid rgb(10,102,194);
+    color: rgb(10,102,194);
+    cursor: pointer;
+    transition: border-width 0.10s, font-weight 0.20s;
+}
+#linkedin2:hover{
+    border-width: 4px;
+    font-weight: 600;
+}
+#link{
+    text-decoration: none;
+    color: rgb(0,113,133);
+    font-weight: bold;
+    cursor: pointer;
+    transition: color 0.20s;
+}
+#link:hover{
+    color: rgb(3, 153, 71);
+}
+#one{
+    color: rgb(0,118,0);
+    
+}
+#problem1{
+    height: 50px;
+    width: 100px;
+    color: black;
+    background-color: rgb(255,216,20);
+    border: none;
+    border-radius: 20px;
+    cursor: pointer; 
+    transition: background-color 0.20s;   
+}
+#problem1:hover{
+    background-color: rgb(59, 138, 14);
+}
+#problem1:active{
+    background-color: rgba(255,216,20,0.6);;
+}
+#problem2{
+    height: 50px;
+    width: 100px;
+    color: black;
+    background-color: rgb(255,164,28);
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.20s;
+}
+#problem2:hover{
+    background-color: rgb(150, 96, 17);
+}
+#problem2:active{
+    background-color: rgba(255,164,28,0.7);
+}
